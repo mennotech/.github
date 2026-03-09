@@ -1,4 +1,4 @@
-# Welcome to Mennotech 👋
+# Welcome to Mennotech
 
 **Peace of mind for your organization.**
 
