@@ -1,15 +1,32 @@
 # Welcome to Mennotech 👋
 
-**Mennotech** is an IT solutions organization providing technology management, automation, and integration services.
+**Peace of mind for your organization.**
+
+Mennotech is an IT managed services and cybersecurity provider helping organizations stay secure, monitored, and resilient against modern cyber threats. We implement security by design — partnering with best-in-class services to protect your servers, workstations, and information.
+
+🌐 [mennotech.ca](https://mennotech.ca) &nbsp;|&nbsp; 🎫 [support.mennotech.ca](https://support.mennotech.ca)
 
 ---
 
-## 🚀 What We Do
+## 🛡️ What We Do
 
-- **Systems Management** — Scripts and tooling for managing endpoints with RMM platforms like NinjaOne
-- **Monitoring & Alerting** — Zabbix-based monitoring solutions and custom alert scripts for infrastructure visibility
-- **SIS Integrations** — PowerSchool API integrations connecting student information systems to third-party platforms (e.g., FinalSite Enrollment ↔ PowerSchool sync)
-- **Automation & Scripting** — Windows and cross-platform automation scripts for power management, onboarding, and maintenance tasks
+| Service | Description |
+|---|---|
+| **Monitor** | Proactive 24x7 monitoring of your computers and network — responding immediately to threats |
+| **Plan** | Helping organizations leverage technology to meet goals as they grow and change |
+| **Respond** | Fast incident response so you can get back to what your organization does best |
+| **Configure** | Configuring IT systems and services with security and efficient operation in mind |
+| **Train** | Security awareness training powered by KnowBe4 to build a security-first culture |
+| **Relate** | Building strong community with our clients — valuing creativity, honesty, and humility |
+
+---
+
+## 🤝 Our Security Partners
+
+- **[SentinelOne](https://www.sentinelone.com/)** — AI-driven endpoint protection with autonomous response and remediation
+- **[Blackpoint Cyber](https://blackpointcyber.com/)** — 24/7 Security Operations Center (SOC) monitoring and real-time threat response
+- **[Hornetsecurity](https://www.hornetsecurity.com/)** — Next-gen email security, encryption, and Microsoft 365 backup
+- **[KnowBe4](https://www.knowbe4.com/)** — Security awareness training and phishing simulations
 
 ---
 
@@ -29,7 +46,9 @@
 ## 📋 Resources
 
 - [Terms of Service](https://github.com/mennotech/terms-of-service)
+- [Support Portal](https://support.mennotech.ca)
 
 ---
 
-*Building reliable technology solutions — one script at a time.*
+*Simple monthly pricing. No long-term commitments. Multiple layers of protection.*
+
